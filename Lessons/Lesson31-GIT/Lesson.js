@@ -133,6 +133,6 @@ npm i
 npm run deploy
 
 
-
+git remote add origin https://github.com/Azzaid/TMS_FE12.git
 
 
